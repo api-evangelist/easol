@@ -1,0 +1,14 @@
+generated: '2026-07-18'
+method: searched
+source: https://status.easol.com/
+versioning: null
+deprecation: null
+sla: null
+status_page: https://status.easol.com/
+status_page_vendor: incident.io
+notes: >-
+  Easol publishes a public status page (incident.io) covering platform uptime and
+  incidents. No public API, versioning policy, deprecation policy, or SLA document was
+  found on the provider's public surface as of this probe (Easol ships no public
+  developer API/OpenAPI). Absence recorded as honest data.
+deprecated_operations: []

@@ -1,0 +1,19 @@
+generated: '2026-07-18'
+method: searched
+host: https://easol.com
+notes: >-
+  Probed the standard /.well-known/ discovery surface on www.easol.com (301 -> easol.com
+  apex). No discovery document is published; every path returns 404. Empty is a valid,
+  expected result for a provider with no public API. No WellKnown/SecurityTxt pointer is
+  wired because no document was found.
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
