@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Easol is a company surfaced as a portfolio company of tiger-global and added to the API Evangelist network as a stub for enrichment. Sector: saas. This profile is a lead awaiting the enrichment pipeline.
+Easol is an experience commerce platform for creators of festivals, adventure and travel operators, entertainment venues, and multi-day events. Its all-in-one system combines a branded website builder, booking and ticketing, packages and upsells, global payments and on-site POS, marketing and CRM, operations analytics, AI support agents, and creator capital/funding, letting experience businesses move beyond rigid legacy ticketing systems and sell and scale on their own platform. Plans range from Easol Stride (from $250/month) to a custom-priced Easol Pro tier. Easol does not currently publish a public developer API, OpenAPI specification, or developer portal; this profile captures its public commercial, support, security, and status surfaces, and is backed by Tiger Global.
 
-Backed by: tiger-global — https://www.easol.com
+**Areas:** Company · Software-as-a-Service · Experience Commerce · Ticketing · Booking · Payments · Event · Travel · CRM
+
+## Easol on APIs.io
+
+Everything profiled for Easol is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/easol/](https://apis.io/providers/easol/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Easol Domain Security](https://apis.io/security/easol/easol-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.easol.com)
+- [Pricing](https://easol.com/pricing/)
+- [Sign up](https://easol.com/book-a-demo/)
+- [Support](https://support.easol.com/)
+- [Blog](https://easol.com/muse)
+- [Terms of service](https://easol.com/creator-terms)
+- [Privacy policy](https://easol.com/privacy-policy)
+- [Status](https://status.easol.com/)
+
+## API Evangelist rating
+
+**Kin Score 16.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 44.7 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.5** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/easol/](https://apis.io/providers/easol/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Easol: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/easol/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
